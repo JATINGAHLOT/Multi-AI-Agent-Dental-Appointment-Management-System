@@ -227,8 +227,4 @@ Each agent only has access to the tools it needs — the Info Agent can query sl
 ### Data Abstraction Layer
 CSV tools abstract the data layer, making it straightforward to swap in a real database without touching agent code.
 
----
 
-## License
-
-This project is intended for educational and demonstration purposes.
